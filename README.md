@@ -4,7 +4,7 @@ This app is a basic Countdown timer.
 
     The countdown time by default is in 5 seconds, 
     just change the duration of the animation controller
-    in order to try order value.
+    in order to try other value.
     
 
 ## Getting Started
